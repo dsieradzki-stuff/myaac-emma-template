@@ -2,7 +2,6 @@
 defined('MYAAC') or die('Direct access not allowed!');
 
 $menus = get_template_menus();
-
 foreach($config['menu_categories'] as $id => $cat) {
 	if(!isset($menus[$id]) || ($id == MENU_CATEGORY_SHOP && !$config['gifts_system'])) { // ignore Account Menu and shop system if disabled
 		continue;

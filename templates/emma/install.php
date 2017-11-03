@@ -37,10 +37,10 @@ INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VA
 INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Spells', 'spells', 5, 1);
 INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Commands', 'commands', 5, 2);
 INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Server Info', 'serverInfo', 5, 3);
-INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Gallery', 'gallery', 5, 5);
-INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Experience Table', 'experienceTable', 5, 6);
-INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Experience Stages', 'experienceStages', 5, 7);
-INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'FAQ', 'faq', 5, 8);
+INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Gallery', 'gallery', 5, 4);
+INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Experience Table', 'experienceTable', 5, 5);
+INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Experience Stages', 'experienceStages', 5, 6);
+INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'FAQ', 'faq', 5, 7);
 /* shop */
 INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Buy Points', 'points', 6, 0);
 INSERT INTO `myaac_menu` (`template`, `name`, `link`, `category`, `ordering`) VALUES ('emma', 'Shop Offer', 'gifts', 6, 1);
